@@ -1,0 +1,21 @@
+.a{
+	height: 10px;
+	width: 500px;
+	border: 2px dashed green;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin:20px 20px 20px 20px;
+    text-align: center;
+    background-color: white;
+
+}
+.b{
+	height: 100px;
+	width: 550px;
+	background-color: #f9cb9c;
+	padding-top:20px;
+    padding-bottom:20px;
+	margin:40px 40px 40px 40px;
+	border: 10px solid #9900ff;
+
+}
